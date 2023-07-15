@@ -1,0 +1,1 @@
+export const closeConnection = () => globalThis.socket.close()
